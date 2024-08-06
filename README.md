@@ -21,7 +21,7 @@
 
 1. Clone the repository:
 
-    git clone ( https://github.com/JSander72/Python_Contact_Management_System_week3_day4_homework.git )
+    git clone ( <https://github.com/JSander72/Python_Contact_Management_System_week3_day4_homework.git> )
 
 2. Navigate to the project directory:
 
